@@ -18,7 +18,7 @@ A simple yet elegant **TripAdvisor website clone** built using **HTML & CSS**, f
 
 ## 🎯 Website Live Link
 
-Tripadvisor-Clone: https://github.com/Sanjeev-7714/Tripadvisor-Clone/
+Tripadvisor-Clone: https://sanjeev-7714.github.io/Tripadvisor-Clone/
 
 ## 🎨 Customization  
 
