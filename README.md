@@ -16,9 +16,9 @@ A simple yet elegant **TripAdvisor website clone** built using **HTML & CSS**, f
 - **Flexbox** – Layout techniques for better alignment  
 - **Media Queries** – Mobile-first design approach (Not fully Responsive though !)
 
-## 🎯 Website Live Link  
+## 🎯 Website Live Li
 
- 
+Tripadvisor-Clone: https://github.com/Sanjeev-7714/Tripadvisor-Clone.git
 
 ## 🎨 Customization  
 
@@ -31,4 +31,8 @@ Want to tweak the design? You can:
 
 This project is purely educational and inspired by **TripAdvisor** to practice front-end web development skills.  
 
-💡 **Feel free to fork, customize, and contribute!** 🚀
+## 📩 Contact
+
+Feel free to reach out via [ LinkedIn: https://www.linkedin.com/in/sanjeev-dev7714/ ].  
+
+---
